@@ -53,6 +53,9 @@ type voice_device, dev_type;
 #Define system health monitor devices
 type system_health_monitor_device, dev_type;
 
+# USB Gadget
+type hid_gadget_device, dev_type;
+
 #Define avtimer device
 type avtimer_device, dev_type;
 
